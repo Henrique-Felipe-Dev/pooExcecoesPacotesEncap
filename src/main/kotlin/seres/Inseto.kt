@@ -1,0 +1,4 @@
+package seres
+
+class Inseto {
+}
